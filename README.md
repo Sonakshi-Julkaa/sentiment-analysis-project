@@ -22,9 +22,12 @@ This project demonstrates:
   - Confusion Matrix
 
 **Dataset:**  
-✔ Self-created  
-✔ Custom text samples  
-✔ Labeled manually into 3 sentiment classes  
+The dataset used in this project is **self-created**, collected through a Google Forms survey.
+
+Participants submitted text responses which were later **manually labelled** by me into:
+- Positive  
+- Neutral  
+- Negative  
 
 ## How to Run the Project
 
